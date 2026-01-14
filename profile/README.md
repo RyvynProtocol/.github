@@ -1,12 +1,67 @@
-## Hi there 👋
+# RYVYN Protocol 🚀
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+**A revolutionary stablecoin platform that rewards users on every transfer with real-world asset-backed yields.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Frontend](https://img.shields.io/badge/Frontend-Next.js%2015-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-363636?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
+[![Network](https://img.shields.io/badge/Network-Mantle%20Sepolia-blue?style=for-the-badge)](https://www.mantle.xyz/)
+
+</div>
+
+---
+
+## 🌟 What is RYVYN?
+
+RYVYN Protocol is a decentralized yield-bearing stablecoin protocol. Deposit USDC to mint **ryUSD** and earn passive yield through **ryBOND** rewards — automatically, with every transaction.
+
+### Core Features
+
+- 🏦 **Real World Assets** — Treasury backed by US T-Bills and Corporate Bonds
+- 💸 **Profitable Payments** — Earn rewards on every transfer
+- 🌊 **Stream Bonds** — Yield that streams over time, claimable every second
+- 📊 **Full Transparency** — Real-time treasury dashboard
+
+---
+
+## 📦 Repositories
+
+| Repo                                          | Description                        |
+| --------------------------------------------- | ---------------------------------- |
+| **[FE](https://github.com/RyvynProtocol/FE)** | Next.js 15 Frontend Application    |
+| **[SC](https://github.com/RyvynProtocol/SC)** | Solidity Smart Contracts (Foundry) |
+
+---
+
+## 🚀 Quick Start
+
+### Smart Contracts
+
+```bash
+git clone https://github.com/RyvynProtocol/SC.git && cd SC
+forge install && forge build && forge test
+```
+
+### Frontend
+
+```bash
+git clone https://github.com/RyvynProtocol/FE.git && cd FE
+pnpm install && pnpm dev
+```
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+<div align="center">
+
+⚠️ **Under active development — use at your own risk**
+
+Built with ❤️ by the RYVYN Team
+
+</div>
